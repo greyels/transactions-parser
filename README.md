@@ -1,2 +1,2 @@
 # transactions-parser
-Test task from interview
+Test tasks from interview
